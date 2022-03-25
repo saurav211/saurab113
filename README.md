@@ -14,9 +14,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 <a href="https://github.com/aman9113/">
   <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/Aman?tab=profile">
-  <img align="left" alt="Aman's Stackoverflow" width="22px" src="https://stackoverflow.com/users/18575240/aman-singh" />
-</a>
+
 <a href="https://www.instagram.com/__amansingh__0008/">
   <img align="left" alt="Aman Singh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
