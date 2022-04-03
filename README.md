@@ -35,7 +35,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn-Aman Singh - @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/)
 - 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend almost 6-8 hours listening podcasts everyday.        
+- ⚡ Fun fact: I spend almost 4-6 hours listening podcasts everyday.        
            
  
 [![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
@@ -73,7 +73,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 
 <div align="centre">
 
-### Show some ❤️❤️ by starring some of the repositories!
+### Show some ❤ by starring some of the repositories!
 
 
 
