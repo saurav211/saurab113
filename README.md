@@ -1,5 +1,5 @@
 ## Hola, I'm [Aman Singh!](https://aman9113.github.io/my-protfolio/)👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Development!
+I am a tech enthusiast 💻 who loves programming & exploring more about Development & Love to do Bug Bounty!
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=aman9113&label=Profile views&color=green&style=plastic" alt="aman9113" /> 
 </p>
@@ -29,7 +29,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 
 
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
-- 🌱 I’m currently learning more about Web Development & C++.
+- 🌱 I’m currently learning more about Web Development,JavaScript,Bug Bounty Hunter & C++.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.
 - 💬 Ask me about Development or any tech related stuff.
