@@ -74,7 +74,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 
 <div align="centre">
 
-### Show some ❤❤❤ by starring some of the repositories!
+### Show some ❤ by starring some of the repositories!
 
 
 
