@@ -29,7 +29,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 
 
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
-- 🌱 I’m currently learning more about Web Development,JavaScript,Bug Bounty Hunter & Flutter Developer.
+- 🌱 I’m currently learning more about Web Development,JavaScript,Bug Cyber Security & Flutter Developer.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.
 - 💬 Ask me about Development or any tech related stuff.
@@ -74,7 +74,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 
 <div align="centre">
 
-### Show some ❤❤ by starring some of the repositories!
+### Show some ❤❤❤ by starring some of the repositories!
 
 
 
