@@ -67,14 +67,14 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
   	    <li><b>OS:</b>Dell Monterey 12.0.1</li>
 	    <li><b>Laptop: </b> Dell Inspiron 15 3000</li>
   	    <li><b>Browser: </b>Chrome & Browser</li>
-	    <li><b>Code Editor:</b> VSCode ❤❤❤, Xcode</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
             <li><b>Cleverly using Dell Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
 <div align="centre">
 
-### Show some ❤❤❤ by starring some of the repositories!
+### Show some ❤ by starring some of the repositories!
 
 
 
