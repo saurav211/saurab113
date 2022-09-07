@@ -22,7 +22,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
   <img align="left" alt="Aman Singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="https://www.hackerrank.com/amansinghajay222">
   <img align="left" alt="Aman Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-	</a><img align="right" alt="GIF" src="https://aman9113.github.io/my-portfolio/" />
+	// </a><img align="right" alt="GIF" src="https://aman9113.github.io/my-portfolio/" />
+<a href="https://aman9113.github.io/my-portfolio/">
 </a>
 <br/>
 <br/>
