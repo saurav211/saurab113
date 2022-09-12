@@ -45,7 +45,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 [![Linkedin: AmanSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-484549202//)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
-[![Portfolio](https://aman9113.github.io/my-portfolio/)]
+[![Portfolio](https://aman9113.github.io/my-portfolio/) (https://portfolio.com/aman9113)]
 
 **Languages and Tools:**  
 
