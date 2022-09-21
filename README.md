@@ -16,7 +16,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
 <a href="https://github.com/aman9113/">
   <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
 <a href="https://www.instagram.com/__amansingh__0008/">
   <img align="left" alt="Aman Singh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -24,12 +23,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Develop
   <img align="left" alt="Aman Singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="https://www.hackerrank.com/amansinghajay222">
   <img align="left" alt="Aman Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-	</a><img align="right" alt="GIF" 
-
-<br/>
-<br/>
-
-
+	<br/>
+        <br/>
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
 - 🌱 I’m currently learning more about Web Development,JavaScript,Bug Cyber Security & Flutter Developer.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
