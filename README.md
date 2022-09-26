@@ -74,7 +74,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
   	    <li><b>Browser: </b>Chrome & Browser</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
             <li><b>Cleverly using Dell Terminal with node.js, python Linux & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
+		<li><b>Appetize.io for App Testing Purpose </li>
 	</ul>	
 
 <div align="centre">
